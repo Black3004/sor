@@ -1,0 +1,8 @@
+cortar ajo-perejil-cebolla
+mezclar ajo-perejil-cebolla-carne
+salar mezcla-sal
+armarmedallon medallon
+cocinar medallon
+hornear masa
+cortarmore lechuga-tomate
+armar medallon-pan-lechuga-tomate
